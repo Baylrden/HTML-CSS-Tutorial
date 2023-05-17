@@ -1,0 +1,21 @@
+/*HTML SIDE:*/
+
+/*
+<p id="myP">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque ipsam in quaerat voluptate. Ad iusto est quas ipsum a hic ex unde minus? Iusto, voluptatum.</p>
+    <h1 id="myH">This is my WebSite</h1>
+    */
+
+    #myP{
+        border-style: ridge;
+        border-width: 5px;
+        border-color: gold;
+        border-radius: 15px;
+        padding: 5px;
+        letter-spacing: 2px;
+    }
+    
+    #myH{
+        border-top-style: dotted;
+        border-left-width: 6px;
+        border-top-color: red;
+    }

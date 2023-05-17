@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <!-- this is external method to apply css -->
+    <title>Document</title>
+
+    <style>
+    /* this is internal method to apply css */
+
+    #myHeader2{
+        color: purple;
+    }
+    </style>
+
+</head>
+<body>
+
+    <h1 style="color: red;">My Header</h1>
+    <!-- this is inline method to apply css -->
+
+    <h1 id="myHeader" class="group">My second Header</h1>
+
+    <h1 id="myHeader2" class="group">My third Header</h1>
+    
+</body>
+</html>
+
+
+
+/* CSS SIDE: */
+
+#myHeader{
+    color:blue;
+
+}
+
+.group{
+    border: 2px solid black;
+}

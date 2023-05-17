@@ -1,0 +1,27 @@
+/*
+HTML HEADER: 
+
+<script src="https://kit.fontawesome.com/2958610bdc.js" crossorigin="anonymous"></script>
+
+
+HTML BODY: 
+
+<!-- fontawesome.com -->
+   <i class="fa-solid fa-house"></i>
+
+   <a href="">
+   <i class="fab fa-twitter"></i>
+   </a>
+
+   <a href="https://www.youtube.com">
+   <i class="fab fa-youtube"></i>
+   </a>
+   */
+
+   .fa-twitter{
+    color:blue
+}
+
+.fa-youtube{
+    color: red;
+}

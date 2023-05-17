@@ -1,0 +1,14 @@
+/* HTML SIDE */
+
+/* <p id="myP">Lorem ipsum dolor sit amet.</p> */
+
+
+
+#myP{
+    color: darkgrey;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: underline;
+    
+}

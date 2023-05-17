@@ -1,0 +1,18 @@
+/*
+HTML BODY:
+
+<h1>Welcome to my website</h1>
+
+*/
+
+h1{
+    text-shadow: 0px 0px 5px yellow,0px -5px 5px red;
+    /*x-axis,y-axis,spread,color*/
+    
+}
+
+h1:hover{
+    background-color: purple;
+    box-shadow: 5px 5px 5px black;
+    transition: 2s;
+}

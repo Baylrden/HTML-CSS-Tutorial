@@ -1,0 +1,19 @@
+/*HTML BODY: */
+
+/*
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis alias consectetur cumque adipisci, nihil suscipit corporis reprehenderit temporibus repellendus, possimus at tempora architecto! Inventore et natus deleniti voluptatibus quia consequatur eius totam velit mollitia laborum?</p>
+*/
+
+body{
+    background-image: url(/galaxy-space-background-free-thumb28.jpg.crdownload);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+ }
+ 
+ p{
+     background: linear-gradient(rgb(100, 48, 48),rgb(150, 49, 150));
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+ }

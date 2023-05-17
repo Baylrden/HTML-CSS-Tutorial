@@ -1,0 +1,40 @@
+/*
+
+HTML BODY: 
+
+<div id="box1">Hi</div>
+*/
+
+#box1{
+    border: 4px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 225px;
+    text-align: center;
+    background-color: purple;
+    position: relative;
+    top:250px
+
+    
+}
+
+#box1:hover{
+    /* transform: translateX(50px);
+    transform: translateY(50px); */
+    transform: translate(50px,50px);
+    transform: rotateX(180deg);
+    transform: scale(1,02);
+    transform: skew(45deg,45deg);
+
+    transform: matrix(2,0,0,0,250,250);
+
+    /*
+    scaleX()
+    skewY()
+    scaleY()
+    translateX()
+    translateY()
+    */
+
+    transition: 2s;
+}
